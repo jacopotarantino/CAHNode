@@ -1,0 +1,90 @@
+new Card({'id':'0','expansion':'Christmas 2012','color':'white','textcontent':'The tiny calloused hands of the Chinese children that made this card.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'1','expansion':'Christmas 2012','color':'white','textcontent':'Gift-wrapping a live hamster.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'2','expansion':'Christmas 2012','color':'black','textcontent':'Wake up, America. Christmas is under attack by secular liberals and their __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'3','expansion':'Christmas 2012','color':'black','textcontent':'On the third day of Christmas, my true love gave to me: three French hens, two turtle doves and __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'4','expansion':'Christmas 2012','color':'black','textcontent':'Every Christmas my uncle gets drunk and tells the story about __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'5','expansion':'Christmas 2012','color':'black','textcontent':'After blacking out during New Year's Eve, I was awoken by __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'6','expansion':'Christmas 2012','color':'black','textcontent':'This holiday season, Tim Allen must over come his fear of __________ to save Christmas.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'7','expansion':'Christmas 2012','color':'black','textcontent':'Jesus is __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'8','expansion':'Christmas 2012','color':'black','textcontent':'What keeps me warm during the cold, cold winter?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'9','expansion':'Christmas 2012','color':'white','textcontent':'Space Jam on VHS.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'10','expansion':'Christmas 2012','color':'white','textcontent':'A toxic family environment.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'11','expansion':'Christmas 2012','color':'white','textcontent':'Eating an entire snowman.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'12','expansion':'Christmas 2012','color':'white','textcontent':'A visually arresting tutleneck.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'13','expansion':'Christmas 2012','color':'white','textcontent':'Fucking up "Silent Night" in front of 300 parents.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'14','expansion':'Christmas 2012','color':'white','textcontent':'Immaculate Conception.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'15','expansion':'Christmas 2012','color':'white','textcontent':'Santa's heavy sack.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'16','expansion':'Christmas 2012','color':'white','textcontent':'Clearing a bloody path through Walmart with a scimitar.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'17','expansion':'Christmas 2012','color':'white','textcontent':'Another shitty year.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'18','expansion':'Christmas 2012','color':'white','textcontent':'Whatever Kwanzaa is supposed to be about.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'19','expansion':'Christmas 2012','color':'white','textcontent':'A Christmas stocking full of coleslaw.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'20','expansion':'Christmas 2012','color':'white','textcontent':'Elf cum.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'21','expansion':'Christmas 2012','color':'white','textcontent':'Taking down Santa with a surface-to-air missile.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'22','expansion':'Christmas 2012','color':'white','textcontent':'Socks.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'23','expansion':'Christmas 2012','color':'white','textcontent':'Pretending to be happy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'24','expansion':'Christmas 2012','color':'white','textcontent':'Krampus, the Austrian Christmas monster.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'25','expansion':'Christmas 2012','color':'white','textcontent':'The Star Wars Holiday Special.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'26','expansion':'Christmas 2012','color':'white','textcontent':'My hot cousin.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'27','expansion':'Christmas 2012','color':'white','textcontent':'Mall Santa.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'28','expansion':'Christmas 2012','color':'white','textcontent':'Several intertwining love stories featuring Hugh Grant.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'id':'29','expansion':'Christmas 2012','color':'white','textcontent':'A Hungry-Man Frozen Christmas Dinner for One.'}).save(function(err){
+	if(err) console.log(err);
+});

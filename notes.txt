@@ -1,0 +1,38 @@
+outline for new cah app
+
+create initialization script:
+	#!/bin/sh
+	echo "Creating necessary folders..."
+	mkdir ./static
+	echo "Copying code, markup and CSS boilerplate..."
+	cp ./templates/app/server.js ./server.js
+	# TODO copy over the models
+	echo "Setting up dependencies from NPM..."
+	npm install
+	echo "Removing stuff you don't want..."
+	rm -rf .git
+	echo "Initializing new git project..."
+	git init
+	git add .
+	git commit -m "Initial Commit"
+
+requires
+	node
+	jade
+	socket.io
+	express
+	sass
+	compass
+	use grunt to manage all this?
+	
+	foundation - can do all dialogs with reveal
+
+
+user connects
+is served name creation view
+create username
+username is valid (dynamic checking)
+user is sent room selection view
+user selects room
+user added to room, user sent room view, everyone in chat alerted user is added, user is assigned cards
+if no judge, user is automatically judge

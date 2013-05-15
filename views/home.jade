@@ -1,0 +1,20 @@
+doctype 5
+html(lang="en")
+	head
+		title Cards Against Humanity on Node.js
+		meta(charset="UTF-8")
+	
+		link(rel="stylesheet", href="/css/normalize.css")
+		link(rel="stylesheet", href="/css/global.css")
+	
+		script(src="/socket.io/socket.io.js")
+		script(src="/js/custom.modernizr-min.js")
+		script(src="/js/zepto-min.js")
+		script(src="/js/foundation-min.js")
+		script(src="/js/chat-min.js")
+	body
+		.chat-container
+			ul#messages
+			form#form
+				input#input(type="text")
+				button Send

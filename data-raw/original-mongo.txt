@@ -1,0 +1,1671 @@
+new Card({'expansion':'Original','color':'black','textcontent':'__________? There's a app for that.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Why can't I sleep at night?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's that smell?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I got 99 problems but ___________ ain't one.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Who stole the cookies from the cookie jar?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's the next Happy Meal toy?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Anthropologists have recently discovered a primitive tribe that worships __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'It's a pity that kids these days are all getting involved with __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'During Picasso's often-overlooked Brown Period, he produced hundreds of paintings of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Alternative medecine is now embracing the curative powers of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'And the Academy Award for __________ goes to __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's that sound?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What ended my last relationship?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'MTV's new reality show features eight washed-up celebrities living with __________ '}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I drink to forget __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I'm sorry Professor, but I couldn't complete my homework because of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What is Batman's guilty pleasure?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'This is the way the worlds ends, Not with a bang but with __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's a girl's best friend?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'TSA guidelines now prohibits __________ on airplanes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________. This is how I die'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'For my next trick, I will pull __________ out of __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In the new Disney Channel Original Movie, Hannah Montana struggles with __________ for the first time.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________ is a slippery slope that leads to __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What does Dick Cheney prefer?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I wish I hadn't lost the instruction manual for __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Instead of coal, Santa now gives the bad children __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's the most emo?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In 1000 years, when paper money is but a distant memory, __________ will be our currency.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's the next superhero/sidekick duo? (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In M. Night Shyamalan's new movie, Bruce Willis discovers that __________ had really been ___ all along (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'A romantic, candlelit dinner would be incomplete without __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'___________. Betcha can't have just one!'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'White people like __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________. High five, bro.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Next from J.K. Rowling: Harry Potter and the Chamber of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'BILLY MAYS HERE FOR __________.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In a world savaged by __________, our only solace is ___________(2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'War! What is it good for?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'During sex, I like to think about __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What are my parents hiding from me?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What will always get you laid?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'When I'm in prison, I'll have __________ smuggled in.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What did I bring back from Mexico?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What don't you want to find in your Chinese food?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What will I bring back in time to convince people that I am a powerful wizard?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'How am I maintaining my relationship status?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________. It's a trap !'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Coming to Broadway this season,  __________: the musical.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'While the United States raced the Soviet Union to the moon, the Mexican government funneled millions of pesos into research on __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'After Hurricane Katrina, Sean Penn brought __________ to the people of New Orleans'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Due to a PR fiasco, Walmart no longer offers __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In his new summer comedy, Rob Schneider is __________ trapped in the body of __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Rumor has it that Vladimir Putin's favorite dish is __________ stuffed with __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'But before I kill you, Mr Bond, I must show you __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What gives me uncontrollable gas?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What do old people smell like?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'The class field trip was completely ruined by ___'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'When Pharaoh remained unmoved, Moses called down a Plague of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's my secret power?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's there a ton of in heaven?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What would grandma find disturbing, yet oddly charming?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I never truly understood __________ until I encountered __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'The US has begun airdropping ___ to the children of Afghanistan'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What helps Obama unwind?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What did Vin Diesel eat for dinner?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________ : Good to the last drop'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Why am I sticky?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What gets better with age?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________: kid-tested, mother-approved'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's the crustiest?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's Teach for America using to inspire inner city student to succeed?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Studies show that lab rats navigate mazes 50% after being exposed to __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Life was difficult for cavemen before ___________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Make a haiku. (draw 2, pick 3)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'I do not know with what weapons World War III will be fought, but World War IV will be fought with __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Why do I hurt all over?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What am I giving up for Lent?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In Michael Jackson's final moments, he thought about __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'In an attempt to reach a wider audience, the Smithsonian Museum of Natural History has opened an interactive exhibit on __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'When I am President of the United States, I will create the Department of __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'LifeTime presents ___________, the story of __________(2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'When I am a billionaire, I shall erect a 50-foot statue to commemorate __________'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'When I was tripping on acid, __________ turned into __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'That's right, I killed __________, How, you ask? __________ (2)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's my anti-drug?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'__________ + __________ = ___________ (draw 2, pick 3)'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What never fails to liven up the party?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'What's the new fad diet?'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'black','textcontent':'Major League Baseball has banned __________ for giving players an unfair advantage.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Coat hanger abortions.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Man meat.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Autocannibalism.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Vigorous jazz hands.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Flightless birds.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pictures of boobs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Doing the right thing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hunting accidents.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A cartoon camel enjoying the smooth, refreshing taste of a cigarette.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The violation of our most basic human rights.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Viagra.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Self-loathing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Spectacular abs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'An honest cop with nothing left to lose.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Abstinence.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A balanced breakfast.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mountain Dew Code Red.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Concealing a boner.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Roofies.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Glenn Beck convulsively vomiting as a brood of crab spiders hatches in his brain and erupts from his tear ducts.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tweeting.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Big Bang.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Amputees.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dr. Marting Luther King Jr.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Former President George W. Bush.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being marginalized.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Smegma.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Laying an egg.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cuddling.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Aaron Burr.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Pope.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A bleached asshole.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Horse meat.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Genital piercings.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Fingering.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Elderly Japanese men.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Stranger danger.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Fear itself.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Science.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Praying the gay away.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Same-sex ice dancing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The terrorists.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Making sex at her.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'German dungeon porn.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bingeing and purging.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Ethnic cleansing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cheating in the Special Olympics.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Nickelback.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Heteronormativity.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'William Shatner.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Making a pouty face.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Chainsaws for hands.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The placenta.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The profoundly handicapped.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tom Cruise.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Object permanence.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Goblins.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'An icepick lobotomy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Arnold Schwarzenegger.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hormone injections.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A falcon with a cap on its head.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Foreskin.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dying.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Stunt doubles.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The invisible hand.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Jew-fros.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A really cool hat.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Flash flooding.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Flavored condoms.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dying of disentery.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sexy pillow fights.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Three-Fifths compromise.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A sad handjob.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Men.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Historically black colleges.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sean Penn.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Heartwarming orphans.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Waterboarding.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The clitoris.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Vikings.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Friends who eat all the snacks.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Underground Railroad.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pretending to care.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Raptor attacks.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A micropenis.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A Gypsy curse.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Agriculture.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bling.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A clandestine butt scratch.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The South.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sniffing glue.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Consultants.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My humps.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Geese.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being a dick to children.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Party poopers.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sunshine and rainbows.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'YOU MUST CONSTRUCT ADDITIONAL PYLONS.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mutually-assured destruction.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Heath Ledger.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sexting.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'An Oedipus complex.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Eating all of the cookies before the AIDS bake-sale.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A sausage festival.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Michael Jackson.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Skeletor.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Chivalry.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sharing needles.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being rich.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Muzzy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Count Chocula.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Spontaneous human combustion.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'College.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Necrophilia.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Chinese gymnastics team.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Global warming.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Farting and walking away.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cookie Monster devouring the Eucharist wafers.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Stifling a giggle at the mention of Hutus and Tutsis.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Penis envy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Letting yourself go.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'White people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dick Cheney.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Leaving an awkward voicemail.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Yeast.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Natural selection.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Masturbation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Twinkies.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A LAN party.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Opposable thumbs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A grande sugar-free iced soy caramel macchiato.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Soiling oneself.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A sassy black woman.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sperm whales.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Teaching a robot to love.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Scrubbing under the folds.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A drive-by shooting.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Whipping it out.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Panda sex.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Catapults.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Will Smith.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Toni Morrison\'s vagina.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Five-Dollar Foot-longs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Land mines.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A sea of troubles.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A zesty breakfast burrito.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Christopher Walken.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Friction.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Balls.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'AIDS.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The KKK.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Figgy pudding.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Seppuku.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Marky Mark and the Funky Bunch.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Gandhi.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dave Matthews Band.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Preteens.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The token minority.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Friends with benefits.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Re-gifting.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pixelated bukkake.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Substitute teachers.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Take-backsies.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A thermonuclear detonation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Tempur-Pedic Swedish Sleep System.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Waiting \'til marriage.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A tiny horse.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A can of whoop-ass.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dental dams.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Feeding Rosie O\'Donnell.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Old-people smell.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Genghis Khan.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Authentic Mexican cuisine.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Oversized lollipops.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Garth Brooks.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Keanu Reeves.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Drinking alone.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The American Dream.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Taking off your shirt.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Giving 110%.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Flesh-eating bacteria.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Child abuse.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A cooler full of organs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A moment of silence.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Rapture.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Keeping Christ in Chrismas.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Robocop .'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'That one gay Teletubby.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sweet, sweet vengeance.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Fancy Feast.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pooping back and forth. Forever..'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being a motherfucking sorcerer.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Jewish fraternities.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Edible underpants.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Poor people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'All-you-can-eat shrimps for $4.99.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Britney Spears at 55.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'That thing that electrocutes your abs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The folly of man.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Fiery poops.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cards Against Humanity.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A murder most foul.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Me time.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The inevitable heat death of the universe.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Nocturnal emissions.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Daddy issues.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The hardworking Mexican.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Natalie Portman.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Waking up half-naked in a Denny\'s parking lot.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Nipple blades.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Assless chaps.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Full frontal nudity.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hulk Hogan.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Passive-aggression.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Ronald Reagan.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Vehicular manslaughter.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Menstruation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pulling out.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Picking up girls at the abortion clinic.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The homosexual agenda.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Holy Bible.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'World peace.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dropping a chandelier on your enemies and riding the rope up.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Testicular torsion.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The milk man.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A time-travel paradox.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hot Pockets.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Guys who don\'t call.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Eating the last known bison.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Darth Vader.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Scalping.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Homeless people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Worlds of Warcraft.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Gloryholes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Saxophone solos.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sean Connery.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'God.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Intelligent design.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'"The taint.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Friendly fire.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Keg stands.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Eugenics.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A good sniff.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Lockjaw.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A neglected Tamagotchi.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The People\'s Elbow.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Robert Downey Jr..'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The heart of a child.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Seduction.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Smallpox blankets.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Licking things to claim them as your own.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A salty surprise.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Poorly-timed Holocaust jokes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My soul.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My sex life.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pterodactyl eggs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Altar boys.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Forgetting the Alamo.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'72 virgins.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Raping and pillaging.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pedophiles.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Eastern European Turbo-Folk music.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A snapping turtle biting the tip of your penis.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Pabst Blue Ribbon.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Domino\'s Oreo Dessert Pizza.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My collection of high-tech sex toys.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A middle-aged man on roller skates.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Blood of Christ.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Half-assed foreplay.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Free samples.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Douchebags on their iPhones.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hurricane Katrina.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Wearing underwear inside-out to avoid doing laundry.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Republicans.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The glass ceiling.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A foul mouth.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Jerking off into a pool of children\'s tears.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Getting really high.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The deformed.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Michelle Obama\'s arms.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Explosions.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Übermensch.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Donald Trump.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sarah Palin.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Attitude.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'This answer is postmodern.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Crumpets with the Queen.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Frolocking.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Team-building exercises.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Repression.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Road head.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A bag of magic beans.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'An asymmetric boob job.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dead parents.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Public ridicule.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A mating display.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A mime having a stroke.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Stephen Hawking talking dirty.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'African Children.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mouth herpes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Overcompensation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bill Nye the Science Guy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bitches.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Italians.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Have some more kugel.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A windmill full of corpses.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Her Royal Highness, Queen Elizabeth II.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Crippling debt.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Adderall.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A stray pube.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Shorties and blunts.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Passing a kidney stone.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Prancing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Leprosy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A brain tumor.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bees ?.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Puppies !.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cockfights.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Kim Jong-Il.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hope.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'9oz. of sweet Mexican black-tar heroin.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Incest.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Grave robbing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Asians who aren\'t good at math.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Alcoholism.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'(I am doing Kegels right now.).'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Justin Bieber.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Jews.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bestiality.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Winking at old people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Drum circles.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Kids with ass cancer.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Loose lips.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Auschwitz.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Civilian casualties.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Inappropriate yodeling.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tangled Slinkys.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being on fire.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Thong Song.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A vajazzled vagina.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Riding off into the sunset.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Exchanging pleasantries.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My relationship status.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Shaquille O\'Neal\'s acting career.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Being fabulous.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Lactation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Not reciprocating oral sex.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sobbing into a Hungry-Man Frozen Dinner.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'My genitals.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Date rape.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Ring Pops.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'GoGurt.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Judge Judy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Lumberjack fantasies.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The gays.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Scientology.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Estrogen.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Police brutality.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Passable transvestites.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Virginia Tech Massacre.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tiger Woods.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dick Fingers.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Racism.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Glenn Beck being harried by a swarm of buzzards.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Surprise sex !.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Classist undertones.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Booby-trapping the house to foil burglars.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'New Age music.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'PCP.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A lifetime of sadness.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Doin\'t it in the butt.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Swooping.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Hamburglar.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tentacle porn.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A hot mess.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Too much hair gel.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A look-see.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Not giving a shit about the Third World.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'American Gladiators.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Kool-Aid Man.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mr. Snuffleupagus.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Barack Obama.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Golden showers.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Wiping her butt.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Queefing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Getting drunk on mouthwash.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A M. Night Shyamalan plot twist.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A robust mongoloid.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Nazis.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'White privilege.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'An erection that lasts longer than four hours.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A disappointing birthday party.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Puberty.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Two midgets shitting into a bucket.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Wifely duties.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The forbidden fruit.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Getting so angry that you pop a boner.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Sexual tension.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Third base.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A gassy antelope.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Those times when you get sand in your vagina.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A Super Soaker full of cat pee.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Muhammad (Praise Be Unto Him).'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Racially-biased SAT questions.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Porn stars.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A fetus.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Obesity.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'When you fart and a little bit comes out.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Oompa-Loompas.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'BATMAN!!!.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Black people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Tasteful sideboob.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Hot people.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Grandma.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cooping a feel.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Trail of Tears.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Famine.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Finger painting.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The miracle of childbirth.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Goats eating cans.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A monkey smoking a cigar.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Faith healing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Parting the Red Sea.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dead babies.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Amish.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Impotence.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Child beauty pageants.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Centaurs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'AXE Body Spray.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Kanye West.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Women\'s suffrage.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Children on leashes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Harry Potter erotica.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Dance of the Sugar Plum Fairy.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Lance Armstrong\'s missing testicle.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dwarf tossing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mathletes.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Lunchables.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Women in yogurt commercials.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'John Wilkes Booth.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Powerful thighs.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Mr Clean, right behind you.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Multiple stab wounds.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Cybernetic enhancements.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Serfdom.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Another goddamn vampire movie.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Glenn Beck catching his scrotum on a curtain hook.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'A big hoopla about nothing.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Peeing a little bit.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Hustle.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Ghosts.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Bananas in Pajamas.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Active listening.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Dry heaving.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Kamikaze pilots.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Force.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'Anal beads.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'The Make-A-Wish Foundation.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});
+new Card({'expansion':'Original','color':'white','textcontent':'.'}).save(function(err){
+	if(err) console.log(err);
+});

@@ -1,0 +1,2 @@
+/* what goes in here ? */
+The chat functionality and the base of the application logic is taken from the example chat application in Smashing Node.js by Guillermo Rauch. The project also uses Foundation by Zurb. Most of the code was developed by Jacopo Tarantino. Security testing was performed by Benjamin Loula. User testing was performed by Benjamin Smith.
